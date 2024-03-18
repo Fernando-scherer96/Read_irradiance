@@ -4,7 +4,7 @@ def categorizar_irradiancia(valor):
     elif 625 <= valor <= 875: 
         return 'Faixa E'
     elif 400 <= valor <= 625: 
-        return 'Faxia D'
+        return 'Faixa D'
     elif 250 <= valor <= 400:
         return 'Faixa C'
     elif 150 <= valor <= 250:
